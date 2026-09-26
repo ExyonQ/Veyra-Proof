@@ -1,0 +1,13 @@
+.venv/
+.veyra/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+dist/
+build/
+target/
+.DS_Store
+.freebuff/
+
+# Project skills must ship with the clone (tests/test_skill_document.py)
+!.cursor/
